@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "secretStore": null,
+      "resourceId": null,
+      "type": "secrets.user",
+      "connectionId": null
+    },
+    "mssql1": {
+      "secretStore": "LocalSecretsFile",
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:\"Server=THINKPADE14:Vu_Linh_ThinkPadE14;Database=BTL_NET2_MenShoes\"",
+      "dynamicId": null
+    }
+  }
+}

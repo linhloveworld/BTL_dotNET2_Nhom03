@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets",
+      "connectionId": null
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:\"Server=THINKPADE14:Vu_Linh_ThinkPadE14;Database=BTL_NET2_MenShoes\"",
+      "dynamicId": null
+    }
+  }
+}

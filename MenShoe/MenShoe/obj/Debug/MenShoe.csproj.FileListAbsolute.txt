@@ -1,0 +1,229 @@
+E:\C#\WebMVC\MenShoe\MenShoe\obj\Debug\MenShoe.csprojResolveAssemblyReference.cache
+E:\C#\WebMVC\MenShoe\MenShoe\bin\ApplicationInsights.config
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\csc.exe
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\csc.exe.config
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\csc.rsp
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\csi.exe
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\csi.rsp
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\System.AppContext.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\System.IO.FileSystem.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\vbc.exe
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\vbc.exe.config
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\vbc.rsp
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\VBCSCompiler.exe
+E:\C#\WebMVC\MenShoe\MenShoe\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\WebMVC\MenShoe\MenShoe\bin\MenShoe.dll.config
+E:\C#\WebMVC\MenShoe\MenShoe\bin\MenShoe.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\MenShoe.pdb
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Antlr3.Runtime.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\EntityFramework.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\EntityFramework.SqlServer.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.Agent.Intercept.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.DependencyCollector.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.Web.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.WindowsServer.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.ApplicationInsights.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Newtonsoft.Json.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\PagedList.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\PagedList.Mvc.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.Helpers.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.Mvc.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.Optimization.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.Razor.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.WebPages.Deployment.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.WebPages.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.WebPages.Razor.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\WebGrease.dll
+E:\C#\WebMVC\MenShoe\MenShoe\bin\EntityFramework.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\EntityFramework.SqlServer.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\PagedList.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\PagedList.Mvc.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.Helpers.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.Mvc.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.Optimization.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.Razor.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.WebPages.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.WebPages.Deployment.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\System.Web.WebPages.Razor.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Antlr3.Runtime.pdb
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Newtonsoft.Json.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.ApplicationInsights.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.DependencyCollector.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.WindowsServer.xml
+E:\C#\WebMVC\MenShoe\MenShoe\bin\Microsoft.AI.Web.xml
+E:\C#\WebMVC\MenShoe\MenShoe\obj\Debug\MenShoe.dll
+E:\C#\WebMVC\MenShoe\MenShoe\obj\Debug\MenShoe.pdb
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\ApplicationInsights.config
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csc.exe
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csc.exe.config
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csc.rsp
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csi.exe
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csi.rsp
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.AppContext.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.IO.FileSystem.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\vbc.exe
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\vbc.exe.config
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\vbc.rsp
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\VBCSCompiler.exe
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\MenShoe.dll.config
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\MenShoe.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\MenShoe.pdb
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Antlr3.Runtime.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\EntityFramework.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\EntityFramework.SqlServer.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.DependencyCollector.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.Web.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.WindowsServer.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.ApplicationInsights.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Newtonsoft.Json.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\PagedList.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\PagedList.Mvc.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Helpers.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Mvc.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Optimization.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Razor.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.Deployment.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.Razor.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\WebGrease.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\EntityFramework.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\EntityFramework.SqlServer.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\PagedList.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\PagedList.Mvc.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Helpers.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Mvc.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Optimization.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Razor.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.Deployment.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.Razor.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Antlr3.Runtime.pdb
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Newtonsoft.Json.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.ApplicationInsights.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.DependencyCollector.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.WindowsServer.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.Web.xml
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.csproj.AssemblyReference.cache
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.csproj.CoreCompileInputs.cache
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.csproj.CopyComplete
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.dll
+D:\IT\DoAnTotNghiep\DoAnTotNghiep\DoAnTotNghiep\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.pdb
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\ApplicationInsights.config
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csc.exe
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csc.exe.config
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csc.rsp
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csi.exe
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\csi.rsp
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.AppContext.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.Collections.Immutable.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.IO.FileSystem.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\System.Reflection.Metadata.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\vbc.exe
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\vbc.exe.config
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\vbc.rsp
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\VBCSCompiler.exe
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\roslyn\VBCSCompiler.exe.config
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\MenShoe.dll.config
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\MenShoe.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\MenShoe.pdb
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Antlr3.Runtime.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\EntityFramework.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\EntityFramework.SqlServer.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.DependencyCollector.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.Web.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.WindowsServer.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.ApplicationInsights.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.Web.Infrastructure.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Newtonsoft.Json.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\PagedList.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\PagedList.Mvc.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Helpers.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Mvc.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Optimization.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Razor.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.Deployment.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.Razor.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\WebGrease.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\EntityFramework.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\EntityFramework.SqlServer.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\PagedList.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\PagedList.Mvc.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Helpers.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Mvc.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Optimization.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.Razor.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.Deployment.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\System.Web.WebPages.Razor.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Antlr3.Runtime.pdb
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Newtonsoft.Json.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.ApplicationInsights.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.DependencyCollector.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.WindowsServer.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\bin\Microsoft.AI.Web.xml
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.csproj.AssemblyReference.cache
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.csproj.CoreCompileInputs.cache
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.csproj.CopyComplete
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.dll
+D:\IT\C# & ASP.NET + SQL Server\BTL_NET2_Nhom03\BTL_NET2_Nhom03\BTL_NET2_Nhom03\MenShoe (1)\MenShoe\MenShoe\obj\Debug\MenShoe.pdb
